@@ -20,4 +20,6 @@ async def say(ctx, *, arg):
  await ctx.send(arg)
 #this command makes it so if someone does (prefix)say hello the bot will send hello to the message channel
 
+#dm me in discord if you're having problems and errors
+#my user is Watcher#1716
 bot.run(os.getenv("TOKEN")
